@@ -1,0 +1,6 @@
+hi how are you
+i'm fine
+what about you
+me fine too
+I am writing code for java reading writing and appending.
+this is the extra line we added using append method
